@@ -1,1 +1,1 @@
-window.alert('Do Not Block This Site Please')
+window.alert('Do Not Block This Site Please');
